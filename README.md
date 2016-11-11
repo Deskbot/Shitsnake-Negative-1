@@ -1,6 +1,15 @@
 Shitsnake -1
 ============
 
+How to Play
+-----------
+
+After setting up the code, press the start button or run the `Start` macro.
+
+Control the snake using the arrow keys.
+
+Don't crash into the walls.
+
 Installation
 ------------
 
@@ -19,7 +28,7 @@ or
 
 1. Open `Shitsnake -1.xlsm`
 
-References: (Found in)
+References:
 
 * Visual Basic For Applications
 * Microsoft Excel 15.0 Object Library
