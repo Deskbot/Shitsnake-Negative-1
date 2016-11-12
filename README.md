@@ -15,7 +15,7 @@ Installation
 
 Download:
 
-`git clone https://github.com/Deskbot/Monopoly-2`
+`git clone https://github.com/Deskbot/Shitsnake-Negative-1`
 
 Load:
 
