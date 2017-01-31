@@ -21,6 +21,8 @@ Public Sub Class_Initialize()
     Set allCells = GameSheet.Range(GameSheet.cells(1, 1), GameSheet.cells(GameSheet.rows.Count, GameSheet.columns.Count))
     allCells.ClearFormats
     allCells.ClearContents
+    'allCells.Font.size = 1
+    'this does nothing because the formatting is pasted from the sprites page, which needs font to be properly sized
     
     'display settings
     With Data.settings
