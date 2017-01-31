@@ -20,7 +20,7 @@ Download:
 Load:
 
 1. Open a Macro-Enabled Microsoft Excel Workbook
-2. Open VBA (may have to edit an existing macro to bring up the window)
+2. Open VBA (may have to edit an existing macro to bring up the window if the developer tab is not enabled)
 3. Add all the references below (Tools->References)
 4. Import all `.cls` and `.bas` files (right-click in the project side bar)
 
